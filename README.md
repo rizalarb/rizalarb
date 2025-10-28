@@ -7,9 +7,9 @@
 </p>
  
 <p align="center">
-   🌱 I’m passionate about <strong>data analysis, technology, and automation</strong><br>
-   💡 Currently exploring <strong>data storytelling</strong> and <strong>digital product design</strong><br>
-   🤝 Open for collaboration in <strong>data, visualization, and workflow automation</strong>
+   🌱 I’m passionate about <strong>data analysis, visualization, and simulation</strong><br>
+   💡 Currently exploring <strong>data-driven storytelling</strong> and <strong>scientific communication</strong><br>
+   🤝 Open for collaboration in <strong>analytics, research, and visual insight projects</strong>
 </p>
 
 ---
