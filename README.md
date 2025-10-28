@@ -45,8 +45,8 @@
    <a href="https://www.linkedin.com/in/rizalarb/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/+jfiMpCySyJgyOG1">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <a href="https://www.instagram.com/lordrizal.arb/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
    <a href="mailto:ahmad.rizal789.arb@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -58,7 +58,7 @@
 ### 📂 Explore More
 <p align="center">
    Curious about my works and learning journey?<br>
-   Check out my 👉 <a href="https://github.com/rizalarb/Portfolio">Portfolio Repository</a> 👈
+   Check out my 👉 <a href="https://github.com/rizalarb/portfolio">Portfolio Repository</a> 👈
 </p>
 
 ---
