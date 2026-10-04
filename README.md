@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rizal 👋</h1>
 
 <p align="center">
-   <em>I’m someone who believes that true knowledge does not breed fear —  
+   <em>I heard that true knowledge does not breed fear —  
    for fearful knowledge is but information of the past,  
    rooted in the present, yet blind to the future.</em>
 </p>
@@ -62,7 +62,7 @@
 </p>
 
 ---
-### 🌱 Philosophy of Work
+### 🌱 Just a Remainder
 <p align="center">
    <em>"Knowledge, when carried with humility, becomes light.<br>
    It moves easily through crowded rooms,<br>
